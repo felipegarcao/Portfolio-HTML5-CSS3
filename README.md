@@ -1,3 +1,20 @@
-﻿# Portfolio-HTML5-CSS3
+﻿<h1>Portfolio-HTML5-CSS3</h1>
  
- #Feito com HTML,CSS e usando o javaScript Somente Para adicionar o Evento De Click que parte do Menu 
+ 
+> Status : Developing ⚠️
+
+
+<h1>Developed Parts</h1>
+
+
++ HTML5 ✔️ 
++ CSS3 ✔️ 
++ JavaScript ✔️ 
+
+
+⚠️ things left to add
+
++ put more functions
++ test new animation models
++ try to host in a public domain
++ add introduction of future projects
