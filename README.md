@@ -14,9 +14,16 @@
 + JavaScript ✔️ 
 
 
+✨function that already placed
+
++ menu with javascript function
++ animations with the button, title, my name
+
+
 ⚠️ things left to add
 
 + put more functions
 + test new animation models
 + try to host in a public domain
 + add introduction of future projects
++ make this page a responsive layout
